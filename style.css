@@ -1,0 +1,65 @@
+body{
+    background-color: #17a2b8;
+    font-family: sans-serif; 
+    color: #333;
+}
+h2{
+    color: #007bff;
+}
+a{
+    color: #ffc107;
+}
+
+/** navbar css */
+.navbar{
+    background-color: #343a40;
+}
+.navbar-brand,.nav-link{
+    color: #ffffff;
+}
+.nav-link:hover{
+    color :#ffc107;
+}
+.navbar-toggler{
+    color: #ffffff;
+}
+
+/** main heading *//
+.jumbotron h1{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.jumbotron p{
+    font-size: 1.5rem;
+}
+.jumbotron {
+    color: #ffffff;
+}
+
+/** container */
+.container {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+}
+.container p{
+    color: #555;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+.img-fluid{
+    border-radius: 0.5rem;
+}
+
+/** footer */
+footer p{
+    color: #ffffff !important;
+}
+footer{
+    background-color: #343a40;
+    padding: 1rem;
+}
+footer a{
+    text-decoration: none;
+}
